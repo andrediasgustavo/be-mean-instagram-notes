@@ -1,0 +1,27 @@
+Anotações do modulo de MongoDb
+
+NOSQL = NOT ONLY SQL
+
+Tipos de NoSqls
+
+Documento (MongoDb, CouchDb)
+Grafo (Neo4j)
+Chave-Valor (Redis)
+Coluna (Cassandra("não vamos usar"))
+Misto (OrientDb(Documento e Grafo))
+
+MongoDb é escrito em C++
+
+Aceita JS
+
+Schemaless ("Não tem estrutura de dados difinida")
+
+Trabalha com JSON && BSON ("Forma Binaria do JSON")
+
+Pré-Aloca 80mb de espaço quando cria o Db por isso que na primeira vez que é inserido dados demora muito mais do que nas próximas vezes.
+
+Uma tabela do SQL = Collection E as linhas da tabela = Documento JSON
+
+Como exportar uma collection para um arquivo JSON
+
+mongoexport --db <nomeDB> --collection <nomedacollection> --out <nomedoarquivo.JSON>
