@@ -1,8 +1,8 @@
-### Anotações do modulo de MongoDb
+Anotações do modulo de MongoDb
 
-## NOSQL = NOT ONLY SQL
+NOSQL = NOT ONLY SQL
 
-### Tipos de NoSqls
+Tipos de NoSqls
 
 * Documento (MongoDb, CouchDb)
 * Grafo (Neo4j)
@@ -24,4 +24,4 @@ Uma tabela do SQL = Collection E as linhas da tabela = Documento JSON
 
 Como exportar uma collection para um arquivo JSON
 
-### mongoexport --db <nomeDB> --collection <nomedacollection> --out <nomedoarquivo.JSON>
+mongoexport --db <nomeDB> --collection <nomedacollection> --out <nomedoarquivo.JSON>
