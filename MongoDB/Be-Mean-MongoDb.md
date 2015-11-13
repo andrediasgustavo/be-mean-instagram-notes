@@ -1,8 +1,8 @@
 # Anotações do modulo de MongoDb
 
-### NOSQL = NOT ONLY SQL
+NOSQL = NOT ONLY SQL
 
-### Tipos de NoSqls
+Tipos de NoSqls
 
 * Documento (MongoDb, CouchDb)
 * Grafo (Neo4j)
@@ -22,7 +22,8 @@ Pré-Aloca 80mb de espaço quando cria o Db por isso que na primeira vez que é 
 
 Uma tabela do SQL = Collection E as linhas da tabela = Documento JSON
 
-## Comandos MongoDb
+Comandos MongoDb
+
 Para criar um database e ja dar um checkout para ele 
 
 * use NomedoDb
