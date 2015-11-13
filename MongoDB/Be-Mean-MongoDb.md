@@ -1,8 +1,8 @@
 # Anotações do modulo de MongoDb
 
-## NOSQL = NOT ONLY SQL
+### NOSQL = NOT ONLY SQL
 
-## Tipos de NoSqls
+### Tipos de NoSqls
 
 * Documento (MongoDb, CouchDb)
 * Grafo (Neo4j)
